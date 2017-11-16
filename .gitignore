@@ -1,0 +1,26 @@
+# Android Studio Files
+.idea/
+*.iml
+
+# Built application files
+*.apk
+*.ap_
+
+#Local build properties (sdk path, gradle, etc)
+/local.properties
+
+#Gradle build files
+.gradle
+/build
+
+# Mac OS files (ignore if you're on windows or Linux)
+.DS_Store
+
+# DSL object to configure external native builds using CMake or ndk-build.
+.externalNativeBuild
+
+# Log files
+*.log
+
+# Android Studio Captures
+/captures
